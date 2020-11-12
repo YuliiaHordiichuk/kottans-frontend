@@ -11,7 +11,6 @@ I have never worked with Git before so these courses helped me to dive into a ne
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_github/learngitbranching.js.png "learngitbranching-1")
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_github/learngitbranching.js-1.png "learngitbranching-2")
 </details>
-____
 
 ## 1.Linux, Command Line, HTTP Tools
 I have not used Linux before so the information was new for me except a few commands which I had known before. 
@@ -62,7 +61,6 @@ I have not used Linux before so the information was new for me except a few comm
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_linux_cli/quiz-4.png "quiz-4")
 </details>
 
-### HTTP
 
 
 
