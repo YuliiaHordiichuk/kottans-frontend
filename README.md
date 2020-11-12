@@ -13,7 +13,7 @@ I have never worked with Git before so these courses helped me to dive into a ne
 </details>
 
 ## 1.Linux, Command Line, HTTP Tools
-I have not used Linux before so the information was new for me except a few commands which I had known before. 
+I have not used Linux before so the information was new for me, except for a few commands which I had known before. Besides, I have read articles about HTTP. To be honest, they were quite difficult to understand, so I found some additional articles and video explanations. After that, the information seems more understandable, but still, I will return to the subject again. 
 
 ### Linux Survival
 
