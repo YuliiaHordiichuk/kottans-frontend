@@ -13,7 +13,7 @@ I have never worked with Git before so these courses helped me to dive into a ne
 </details>
 
 ## 1.Linux, Command Line, HTTP Tools
-I have not used Linux before so the information was new for me, except for a few commands which I had known before. Besides, I have read articles about HTTP. To be honest, they were quite difficult to understand, so I found some additional articles and video explanations. After that, the information seems more understandable, but still, I will return to the subject again. 
+I have not used Linux before so the information was new for me, except for a few commands which I had known before. Besides, I have read articles about HTTP. To be honest, they are quite difficult to understand (for me), so I found some additional articles and video explanations. After that, the information seems more understandable, but still, I will return to the subject again. 
 
 ### Linux Survival
 
@@ -61,8 +61,18 @@ I have not used Linux before so the information was new for me, except for a few
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_linux_cli/quiz-4.png "quiz-4")
 </details>
 
+## 2.Git Collaboration
+
+A lot of new commands and explanations helped me better understand Git's work and GitHub. I found out how to work on a remote repository with other people and how I can analyze other contributor's commits. I am sure that I will use this knowledge as soon as I start work on remote repositories with other people. Very useful courses!
 
 
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_collaboration/udacity-github-collaboration.png "UDACITY")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js.org-github-collaboration-1.png "learngitbranching-1")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js-github-collaboration-2.png "learngitbranching-2")
+</details>
 
 
 
