@@ -74,7 +74,17 @@ A lot of new commands and explanations helped me better understand Git's work an
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js-github-collaboration-2.png "learngitbranching-2")
 </details>
 
+## 3.Intro to HTML and CSS
 
+I had finished another HTML & CSS course 2 months ago so almost all the information was familiar to me. However, it was a good idea to check my knowledge :) I did not know about CSS property `word-spacing`. 
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_html_css_intro/udacity.png "UDACITY")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_html_css_intro/learn-html.png "learn-html")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_html_css_intro/learn-css.png "learn-css")
+</details>
 
 
 
