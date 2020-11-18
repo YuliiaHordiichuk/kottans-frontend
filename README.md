@@ -86,6 +86,18 @@ I had finished another HTML & CSS course 2 months ago so almost all the informat
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_html_css_intro/learn-css.png "learn-css")
 </details>
 
+## 4.Responsive Web Design
+
+Useful basic information about adaptive web design and tips on how developers can simplify the process of creating adaptive websites (flexbox, grid, width / max-width). The information about the size of the buttons on mobile devices (48*48px) and the length of the lines (65 symbols) surprised me. Responsive web design patterns (column drop, mostly fluid, off-canvas, layout shifter) were a very useful discovery for me. 
+The Flexbox game is awesome and I found one more Grid Garden game in extra materials, I liked this one too.
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_responsive_web_design/udacity.png "UDACITY")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_responsive_web_design/flexboxfroggy.png "flexboxfroggy")
+</details>
+
 
 
 
