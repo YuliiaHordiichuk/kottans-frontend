@@ -88,7 +88,7 @@ I had finished another HTML & CSS course 2 months ago so almost all the informat
 
 ## 4.Responsive Web Design
 
-Useful basic information about adaptive web design and tips on how developers can simplify the process of creating adaptive websites (flexbox, grid, width / max-width). The information about the size of the buttons on mobile devices (48*48px) and the length of the lines (65 symbols) surprised me. Responsive web design patterns (column drop, mostly fluid, off-canvas, layout shifter) were a very useful discovery for me. 
+Useful basic information about adaptive web design and tips on how developers can simplify the process of creating adaptive websites (flexbox, grid, width / max-width). I was surprised by the information about size of the buttons on mobile devices (48*48px) and length of the lines (65 symbols). Responsive web design patterns (column drop, mostly fluid, off-canvas, layout shifter) were a very useful discovery for me. 
 The Flexbox game is awesome and I found one more Grid Garden game in extra materials, I liked this one too.
 
 <details>
