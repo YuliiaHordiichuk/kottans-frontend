@@ -98,6 +98,12 @@ The Flexbox game is awesome and I found one more Grid Garden game in extra mater
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_responsive_web_design/flexboxfroggy.png "flexboxfroggy")
 </details>
 
+## 5.HTML & CSS practice
+
+Very good practice for a better understanding of website aсcesability. I didn't realize immediately that Tab would easily skip my label to hidden input, but I would say that practice makes perfect :)
+
+
+
 
 
 
