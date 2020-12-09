@@ -123,7 +123,7 @@ I am happy that I went through these tasks and now I have some basic knowledge a
 <summary>Screenshots</summary>
 
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_basics/udacity.png "UDACITY")
-![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_basics/freecodecamp.png "freecodecamp")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_basics/freeCodeCamp.png "freeCodeCamp")
 </details>
 
 
