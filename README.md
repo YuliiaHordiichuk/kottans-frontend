@@ -103,7 +103,7 @@ The Flexbox game is awesome and I found one more Grid Garden game in extra mater
 Very good practice for a better understanding of website aсcesability. I didn't realize immediately that Tab would easily skip my label to hidden input, but I would say that practice makes perfect :)
 
 
-### 6. JavaScript Basics
+## 6. JavaScript Basics
 
 I am a complete beginner at JavaScript and these courses were my first steps into programming. Learning JavaScript Basics was a really interesting and challenging task at the same time. Now I am familiar with the basics of the language and ready to move on. I liked the exercises at freecodecamp.org, but writing algorithms was a quite tough task for me and I am going to complete these tasks again. Sometimes I had to re-read the information many times to understand what is going on and how something works. I also completed an additional JavaScript course at codecademy.com to consolidate the acquired knowledge.
 
