@@ -126,6 +126,26 @@ I am happy that I went through these tasks and now I have some basic knowledge a
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_basics/freeCodeCamp.png "freeCodeCamp")
 </details>
 
+### 7. DOM 
+
+A huge amount of new information and my first practice task using JS! I didn`t know about DOM at all so it was a very useful chapter. From this course I have learned: 
+- What is DOM and how it helps developers to interact with and control rendered page
+- How to influence page content behavior (create/delete elements, update content, style elements, etc)
+- Information about events and how to work with them. 
+
+Now I have an idea how it all works together (HTML, CSS, JS) but it is only an idea:) I have to practice more and more to do tasks like this easily :)
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_dom/udacity.png "UDACITY")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_dom/freecodecamp.png "freeCodeCamp")
+</details>
+
+### 8. Building a Tiny JS World
+
+Very small task so I`m ready to learn more about Object-Oriented JavaScript :)
+
 
 
 
