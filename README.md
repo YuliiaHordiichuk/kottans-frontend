@@ -2,6 +2,7 @@
 kottans frontend course repository
 
 ## 0.Git and GitHub
+
 I have never worked with Git before so these courses helped me to dive into a new topic easily. Thanks to [UDACITY](https://classroom.udacity.com/courses/ud123) I have learned Git basics and thanks to the game [Learn Git Branching](https://learngitbranching.js.org/?locale=uk) I could clearly understand how different Git commands work. I am about to start working with Git so this new knowledge is very useful.
 
 <details>
@@ -13,6 +14,7 @@ I have never worked with Git before so these courses helped me to dive into a ne
 </details>
 
 ## 1.Linux, Command Line, HTTP Tools
+
 I have not used Linux before so the information was new for me, except for a few commands which I had known before. Besides, I have read articles about HTTP. To be honest, they are quite difficult to understand (for me), so I found some additional articles and video explanations. After that, the information seems more understandable, but still, I will return to the subject again. 
 
 ### Linux Survival
@@ -61,10 +63,10 @@ I have not used Linux before so the information was new for me, except for a few
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_linux_cli/quiz-4.png "quiz-4")
 </details>
 
+
 ## 2.Git Collaboration
 
 A lot of new commands and explanations helped me better understand Git's work and GitHub. I found out how to work on a remote repository with other people and how I can analyze other contributor's commits. I am sure that I will use this knowledge as soon as I start work on remote repositories with other people. Very useful courses!
-
 
 <details>
 <summary>Screenshots</summary>
@@ -73,6 +75,7 @@ A lot of new commands and explanations helped me better understand Git's work an
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js.org-github-collaboration-1.png "learngitbranching-1")
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js-github-collaboration-2.png "learngitbranching-2")
 </details>
+
 
 ## 3.Intro to HTML and CSS
 
@@ -85,6 +88,7 @@ I had finished another HTML & CSS course 2 months ago so almost all the informat
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_html_css_intro/learn-html.png "learn-html")
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_html_css_intro/learn-css.png "learn-css")
 </details>
+
 
 ## 4.Responsive Web Design
 
@@ -126,7 +130,8 @@ I am happy that I went through these tasks and now I have some basic knowledge a
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_basics/freeCodeCamp.png "freeCodeCamp")
 </details>
 
-### 7. DOM 
+
+## 7. DOM 
 
 A huge amount of new information and my first practice task using JS! I didn`t know about DOM at all so it was a very useful chapter. From this course I have learned: 
 - What is DOM and how it helps developers to interact with and control rendered page
@@ -142,11 +147,13 @@ Now I have an idea how it all works together (HTML, CSS, JS) but it is only an i
 ![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_dom/freecodecamp.png "freeCodeCamp")
 </details>
 
-### 8. Building a Tiny JS World
+
+## 8. Building a Tiny JS World
 
 Very small task so I`m ready to learn more about Object-Oriented JavaScript :)
 
-### 9. Object Oriented JS 
+
+## 9. Object Oriented JS 
 
 As always almost all information was new to me, so I spent a lot of time to get an understanding of a constructor function and "new" operator, object prototype, and _ _proto_ _ property. The practice task was really interesting and I am happy that I can write some piece of code already  :)
 
