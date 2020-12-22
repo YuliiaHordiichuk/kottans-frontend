@@ -146,7 +146,17 @@ Now I have an idea how it all works together (HTML, CSS, JS) but it is only an i
 
 Very small task so I`m ready to learn more about Object-Oriented JavaScript :)
 
+### 9. Object Oriented JS 
 
+As always almost all information was new to me, so I spent a lot of time to get an understanding of a constructor function and "new" operator, object prototype, and _ _proto_ _ property. The practice task was really interesting and I am happy that I can write some piece of code already  :)
 
+Tasks on [Codewars](https://www.codewars.com/users/hordiichuk) were interesting and somehow similar to the tasks on freecodecamp, but this time I was much more confident and it was easier to find solutions. 
+
+<details>
+<summary>Screenshots</summary>
+
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_oop/udacity.png "UDACITY")
+![](https://github.com/YuliiaHordiichuk/kottans-frontend/blob/main/task_js_oop/codewars.png "Codewars")
+</details>
 
 
